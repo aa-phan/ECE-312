@@ -1,0 +1,3 @@
+var abc 100
+var xyz 10
+var fifty 50

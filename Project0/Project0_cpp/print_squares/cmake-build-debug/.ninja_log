@@ -1,0 +1,21 @@
+# ninja log v5
+0	379	7155140342609588	CMakeFiles/print_squares.dir/main.cpp.obj	1acc13d26b6a88
+77	162	7155145456821797	print_squares.exe	ec33ee88bbd260e9
+2	76	7155145456012399	CMakeFiles/print_squares.dir/print_squares_starter.cpp.obj	905988c5c33675f9
+1	169	7155150623805006	build.ninja	e3334c008973229
+2	90	7155151001445794	CMakeFiles/print_squares.dir/print_squares_starter.cpp.obj	905988c5c33675f9
+91	180	7155151002298862	print_squares.exe	ec33ee88bbd260e9
+2	78	7155152069728821	CMakeFiles/print_squares.dir/print_squares_starter.cpp.obj	905988c5c33675f9
+79	164	7155152070544255	print_squares.exe	ec33ee88bbd260e9
+2	76	7155152453668842	CMakeFiles/print_squares.dir/print_squares_starter.cpp.obj	905988c5c33675f9
+76	159	7155152454467912	print_squares.exe	ec33ee88bbd260e9
+2	75	7155152513339101	CMakeFiles/print_squares.dir/print_squares_starter.cpp.obj	905988c5c33675f9
+75	159	7155152514138094	print_squares.exe	ec33ee88bbd260e9
+2	77	7155152913410693	CMakeFiles/print_squares.dir/print_squares_starter.cpp.obj	905988c5c33675f9
+77	161	7155152914201834	print_squares.exe	ec33ee88bbd260e9
+2	72	7155153053081207	CMakeFiles/print_squares.dir/print_squares_starter.cpp.obj	905988c5c33675f9
+73	155	7155153053849352	print_squares.exe	ec33ee88bbd260e9
+2	82	7155153168981178	CMakeFiles/print_squares.dir/print_squares_starter.cpp.obj	905988c5c33675f9
+83	168	7155153169797435	print_squares.exe	ec33ee88bbd260e9
+3	78	7155153428312750	CMakeFiles/print_squares.dir/print_squares_starter.cpp.obj	905988c5c33675f9
+78	166	7155153429148849	print_squares.exe	ec33ee88bbd260e9

@@ -1,0 +1,10 @@
+# ninja log v5
+1	186	7155145998645721	build.ninja	57df18d1479e8acd
+0	86	7155146000445969	CMakeFiles/anagrams_question.dir/anagrams_starter.cpp.obj	34ac81bab54e93f
+87	172	7155146001260813	anagrams_question.exe	94dd35a2f9be55f6
+2	88	7155148109513073	CMakeFiles/anagrams_question.dir/anagrams_starter.cpp.obj	34ac81bab54e93f
+89	178	7155148110363372	anagrams_question.exe	94dd35a2f9be55f6
+3	78	7155149002209832	CMakeFiles/anagrams_question.dir/anagrams_starter.cpp.obj	34ac81bab54e93f
+79	162	7155149002988749	anagrams_question.exe	94dd35a2f9be55f6
+3	79	7155149125728503	CMakeFiles/anagrams_question.dir/anagrams_starter.cpp.obj	34ac81bab54e93f
+81	163	7155149126523235	anagrams_question.exe	94dd35a2f9be55f6

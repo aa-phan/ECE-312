@@ -1,0 +1,15 @@
+The boundary of search input by the user: <input_1>
+The sum of the prime numbers up to <input_1> is <output_1>
+
+The boundary of search input by the user: <input_2>
+The sum of the prime numbers up to <input_2> is <output_2>
+
+The boundary of search input by the user: <input_3>
+The sum of the prime numbers up to <input_3> is <output_3>
+
+The boundary of search input by the user: <input_4>
+The sum of the prime numbers up to <input_4> is <output_4>
+
+The boundary of search input by the user: <input_5>
+The sum of the prime numbers up to <input_5> is <output_5>
+

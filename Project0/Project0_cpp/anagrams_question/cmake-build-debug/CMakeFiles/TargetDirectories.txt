@@ -1,0 +1,3 @@
+C:/Users/Aaron/Documents/ECE312/Project0_cpp/anagrams_question/cmake-build-debug/CMakeFiles/anagrams_question.dir
+C:/Users/Aaron/Documents/ECE312/Project0_cpp/anagrams_question/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Aaron/Documents/ECE312/Project0_cpp/anagrams_question/cmake-build-debug/CMakeFiles/rebuild_cache.dir

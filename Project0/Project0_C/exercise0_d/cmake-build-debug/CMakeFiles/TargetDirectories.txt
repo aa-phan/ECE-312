@@ -1,0 +1,3 @@
+C:/Users/Aaron/Documents/ECE312/Project0/exercise0_d/cmake-build-debug/CMakeFiles/exercise0_d.dir
+C:/Users/Aaron/Documents/ECE312/Project0/exercise0_d/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Aaron/Documents/ECE312/Project0/exercise0_d/cmake-build-debug/CMakeFiles/rebuild_cache.dir

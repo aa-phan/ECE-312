@@ -1,0 +1,3 @@
+C:/Users/Aaron/Documents/ECE312/Project0_cpp/print_squares/cmake-build-debug/CMakeFiles/print_squares.dir
+C:/Users/Aaron/Documents/ECE312/Project0_cpp/print_squares/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Aaron/Documents/ECE312/Project0_cpp/print_squares/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,4 @@
+# ninja log v5
+3	187	7155155596784340	build.ninja	129783e00e44dab
+0	68	7155155598403367	CMakeFiles/exercise0_parte.dir/exercise0_parte.c.obj	5687d19576b3440f
+69	154	7155155599220704	exercise0_parte.exe	c14d576a6cd1112

@@ -1,0 +1,67 @@
+test suite 1 (function coverage):
+
+test case 1:
+inputs: 1 2 3
+output: non-triangle
+function coverage: 100%
+
+test case 2: 
+inputs: 3 4 5
+output: triangle
+function coverage: 100%
+
+test suite 2 (statement coverage):
+
+test case 1:
+inputs: 11 0 11
+output: non-triangle
+statement coverage: 15/17
+
+test case 2: 
+inputs: 11 5 11 
+output: triangle
+statement coverage: 15/17
+
+test suite 3 (branch coverage):
+
+test 1:
+inputs: 4 5 6
+output: triangle
+branch coverage: 50%
+
+test 2: 
+inputs: 11 5 6
+output: non-triangle
+branch coverage: 50%
+
+test suite 4 (condition coverage):
+
+test 1: 
+inputs: 1 0 3
+output: non-triangle
+condition coverage: 1/6 = 16%
+
+test 2: 
+inputs: 0 20 20
+output: non-triangle
+condition coverage: 16%
+
+test 3:
+inputs: 7 9 0
+output: non-triangle
+condition coverage: 16%
+
+test 4: 
+inputs: 1 2 3
+output: non-triangle
+condition coverage: 1/6 = 16%
+
+test 2: 
+inputs: 2 3 1
+output: non-triangle
+condition coverage: 16%
+
+test 3:
+inputs: 3 1 2
+output: non-triangle
+condition coverage: 16%

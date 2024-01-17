@@ -1,0 +1,9 @@
+Write a function to print the square of a number. It will have the following signature:
+
+void printSquare(double dbl);
+
+You should output in this form: 
+
+10 squared is 100
+2.5 squared is 6.25
+0.1 squared is 0.01

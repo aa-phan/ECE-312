@@ -1,0 +1,3 @@
+C:/Users/Aaron/Documents/ECE312/Project8/Project8_starter_files/cmake-build-debug/CMakeFiles/Project8_starter_files.dir
+C:/Users/Aaron/Documents/ECE312/Project8/Project8_starter_files/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Aaron/Documents/ECE312/Project8/Project8_starter_files/cmake-build-debug/CMakeFiles/rebuild_cache.dir
